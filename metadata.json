@@ -1,0 +1,6 @@
+{
+  "name": "RoadFix — Road Damage Reporting & Repair Accountability Platform",
+  "description": "Civic infrastructure reporting and repair accountability platform with geospatial tracking, citizen reporting, real evidence uploads, and three-tier administration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
